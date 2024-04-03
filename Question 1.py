@@ -1,4 +1,3 @@
-
 def Convert_Currency(input_no):
     
     input_no = input_no[::-1]
